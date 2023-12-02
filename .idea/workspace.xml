@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="done task1 DDL_DML.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="done task2 DDL_DML.md">
       <change beforePath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/DDL_DML.md" beforeDir="false" afterPath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/DDL_DML.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701548706326</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="done task2 DDL_DML.md">
+      <option name="closed" value="true" />
+      <created>1701553595816</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701553595817</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +268,7 @@
     <MESSAGE value="done data_base.md" />
     <MESSAGE value="start DDL_DML.md" />
     <MESSAGE value="done task1 DDL_DML.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task1 DDL_DML.md" />
+    <MESSAGE value="done task2 DDL_DML.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task2 DDL_DML.md" />
   </component>
 </project>
