@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="done task2 DDL_DML.md">
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="UPDATE task1 DDL_DML.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/comands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/img/comands.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701553728011</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="UPDATE task1 DDL_DML.md">
+      <option name="closed" value="true" />
+      <created>1701555844234</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701555844234</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +285,7 @@
     <MESSAGE value="start DDL_DML.md" />
     <MESSAGE value="done task1 DDL_DML.md" />
     <MESSAGE value="done task2 DDL_DML.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task2 DDL_DML.md" />
+    <MESSAGE value="UPDATE task1 DDL_DML.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE task1 DDL_DML.md" />
   </component>
 </project>

@@ -33,3 +33,11 @@ rental		|rental_id
 staff		|staff_id
 store		|store_id
 ````
+
+---
+
+## Задание 3.
+
+REVOKE INSERT, UPDATE, DELETE, CREATE, DROP, ALTER ON sakila.* FROM 'sys_temp'@'%';
+
+![img](../img/Снимок_экрана_2023-12-03_020826.png)
