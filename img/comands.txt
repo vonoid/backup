@@ -1,5 +1,6 @@
 CREATE USER 'sys_temp'@'%' IDENTIFIED BY '1111';
 SELECT User FROM mysql.user;
+GRANT ALL ON *.* TO 'sys_temp'@'%' WITH GRANT OPTION;
 show grants for 'sys_temp'@'%';
 ALTER USER 'sys_temp'@'%' IDENTIFIED WITH mysql_native_password BY '1111';
 mysql -p -h 127.0.0.1 -P 3306 -u sys_temp
