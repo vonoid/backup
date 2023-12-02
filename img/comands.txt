@@ -1,0 +1,8 @@
+CREATE USER 'sys_temp'@'%' IDENTIFIED BY '1111';
+SELECT User FROM mysql.user;
+show grants for 'sys_temp'@'%';
+ALTER USER 'sys_temp'@'%' IDENTIFIED WITH mysql_native_password BY '1111';
+mysql -p -h 127.0.0.1 -P 3306 -u sys_temp
+mysql -p -h 127.0.0.1 -P 3306 -u sys_temp sakila < /home/vagrant/sakila-db/sakila-schema.sql
+mysql -p -h 127.0.0.1 -P 3306 -u sys_temp sakila < /home/vagrant/sakila-db/sakila-data.sql
+SHOW FULL TABLES FROM sakila;
