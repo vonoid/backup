@@ -25,15 +25,15 @@
 ### Задание 1
 
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
 https://github.com/Fedor-Bee/example/commit/5a7ea4e2c2c4a45f2be22612912b5e67f8c64384
 
 ---
 
 ### Задание 2
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.jpg)
 https://github.com/Fedor-Bee/example/commit/e73cc5f40bd2b0037d46da021ee940b86ddd7341
 
 
@@ -42,7 +42,7 @@ https://github.com/Fedor-Bee/example/commit/e73cc5f40bd2b0037d46da021ee940b86ddd
 
 ### Задание 3
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.jpg)
 https://github.com/Fedor-Bee/example/network
 
 ---
