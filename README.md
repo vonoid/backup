@@ -40,7 +40,7 @@
 
 ### Задание 3
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.jpg)
+![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/3.1.jpg)
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.2.jpg)
 
 ---
