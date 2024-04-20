@@ -56,14 +56,8 @@ systemctl enable zabbix-server apache2
 
 ![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.1.jpg)
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.3.jpg)
 
 
-
----
-
-### Задание 3
-
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/3.1.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.2.jpg)
 
 ---
