@@ -26,37 +26,28 @@
 
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
-```
-sudo apt install -y postgresql
 
-sudo wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4+ubuntu22.04_all.deb
-
-sudo dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
-
-sudo apt update
-
-sudo apt install -y zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts
-
-sudo -u postgres createuser --pwprompt zabbix
-
-sudo -u postgres createdb -O zabbix zabbix
-
-sudo zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
-
-sudo sed -i 's/# DBPassword=/DBPassword=123456789/g' /etc/zabbix/zabbix_server.conf
-
-systemctl restart zabbix-server apache2
-
-systemctl enable zabbix-server apache2
-
-```
 ---
 
 ### Задание 2
 
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.1.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.3.jpg)
+![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.1.png)
+
+
+
+---
+### Задание 3
+
+![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/3.1.jpg)
+![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/3.2.jpg)
+
+
+
+---
+### Задание 3
+
+![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/4.1.jpg)
+
 
 
 
