@@ -1,0 +1,35 @@
+---
+  # - name: update and upgrade apt packages
+  #   apt:
+  #     upgrade: yes
+  #     update_cache: yes
+  #     cache_valid_time: 86400 #One day
+  - name: 'install apache2'
+    apt: 
+      name: apache2
+      update_cache: yes
+      state: latest
+
+  - name: 'start apache2'
+    service:
+      state: started
+      name: apache2
+      enabled: true
+
+  - name: 'check port 80'
+    wait_for:
+      port: 80
+      delay: 10
+  
+  - name: 'index'
+    template:
+      src: templates/indexhtml.j2
+      dest: "/var/www/html/index.html"
+      owner: root
+      group: root
+      mode: 0755
+
+  - name: check url
+    uri: 
+      url: http://localhost
+...

@@ -1,0 +1,29 @@
+---
+- name: Change motd
+  hosts: all
+  become: true
+  vars:
+    motd_text: "Hello User!"
+  tasks:
+  - name: Remove MOTD file
+    ansible.builtin.file:
+      path: /etc/motd.txt
+      state: absent
+  - name: "Make MOTD file"
+    ansible.builtin.lineinfile:
+      dest: "/etc/motd.txt"
+      line: "{{ motd_text }}"
+      create: true
+  - name: "Edit sshd_config"
+    ansible.builtin.lineinfile:
+      dest: "/etc/ssh/sshd_config"
+      line: "Banner /etc/motd.txt"
+      regexp: "^(#)?Banner"
+    notify:
+    - Restart sshd  
+  handlers:
+    - name: Restart sshd
+      ansible.builtin.service:
+        name: sshd
+        state: restarted
+...

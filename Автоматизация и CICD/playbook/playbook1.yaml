@@ -1,0 +1,22 @@
+---
+- name: Download and unarchive    
+  hosts: my
+#  become: yes
+  tasks:
+    - name: Create directory
+      file:
+        path: /home/vagrant/netology/kafka      
+        state: directory
+    
+    - name: Download archive
+      get_url:
+        url: https://downloads.apache.org/kafka/3.7.0/kafka-3.7.0-src.tgz
+        dest: /home/vagrant/netology/kafka/kafka-3.7.0-src.tgz
+    
+    - name: Unarchive
+      unarchive:
+        src: /home/vagrant/netology/kafka/kafka-3.7.0-src.tgz
+        dest: /home/vagrant/netology/kafka
+        remote_src: yes
+        
+...

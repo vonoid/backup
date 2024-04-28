@@ -1,0 +1,19 @@
+---
+- name: Change motd
+  hosts: all
+  become: true
+  gather_facts: yes
+
+  tasks:
+    - name: Gather facts about host
+      setup:
+    
+    - name: Create MOTD message
+      copy: 
+        content: |
+          Hello {{ ansible_host }} ({{ ansible_fqdn }}). Have a great day, sysadmin!
+        dest: /etc/motd.txt
+        owner: root
+        group: root
+        mode: '0644'
+...

@@ -1,0 +1,23 @@
+---
+- name: Install and enable tuned
+  hosts: all
+  become: true
+  tasks:
+  - name: Update and upgrade apt packages
+    apt:
+      upgrade: yes
+      update_cache: yes
+      cache_valid_time: 86400 #One day
+
+  - name: Install tuned
+    package:
+      name: tuned
+      state: latest
+
+  - name: Start tuned
+    service:
+      state: started
+      name: tuned
+      enabled: true
+
+...
