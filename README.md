@@ -14,4 +14,5 @@
 
 ![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/6fc6908f-b59a-43a5-9fee-28a43336417a)
 
+![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/90369c1a-fbf8-4c94-a13f-b757aef14f0c)
 
