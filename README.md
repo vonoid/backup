@@ -10,6 +10,7 @@
 
 ### Задание 2
 
+![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/1392774f-8886-4fd3-bb3b-604e0c1e07b0)
 
 
 ### Задание 3
