@@ -35,7 +35,7 @@ CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'password';
 ```
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. 
-![Список пользователей](https://github.com/Maryana101/DDL-DML-hw/tree/main/img/2. select user.png)
+![Список пользователей](https://github.com/Maryana101/DDL-DML-hw/blob/main/img/2.select_user.png)
 
 1.4. Дайте все права для пользователя sys_temp. 
 
