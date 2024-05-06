@@ -11,6 +11,7 @@
 7. Теперь можно сделать коммит git commit -m 'First commit'.
 8. Сделайте git push origin master.
 9. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+    
 https://github.com/Anastasijre/git1/commit/e6228ee6ff5c9577c74f40313f7a9edfde5730de
 ![Screenshot_57](https://github.com/Anastasijre/gitlab-my/assets/167571138/bf14f055-9205-454c-b498-4decee9b3083)
 ![Screenshot_58](https://github.com/Anastasijre/gitlab-my/assets/167571138/16e4484d-3d8b-4ba1-8f7c-a9d9e69906dd)
@@ -25,8 +26,10 @@ https://github.com/Anastasijre/git1/commit/e6228ee6ff5c9577c74f40313f7a9edfde573
 2. Добавьте файл .gitignore в следующий коммит git add....
 3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
 4. Сделайте коммит и пуш.
-5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.[
+5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+   
 https://github.com/Anastasijre/Anastasijre/commit/c105f251fbf64d5474b029e1bf8cff13393be228#diff-bc37d034bad564583790a46f19d807abfe519c5671395fd494d8cce506c42947
+
 ![Screenshot_61](https://github.com/Anastasijre/gitlab-my/assets/167571138/92e40553-ad22-4914-91f9-38f4aec908ef)
 ---
 
