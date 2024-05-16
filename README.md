@@ -26,6 +26,7 @@
 
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.2.jpg)
 
 ---
 
@@ -36,19 +37,7 @@
 
 
 ---
-### Задание 3
-
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/3.1.jpg)
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/3.2.jpg)
-
-
-
----
-### Задание 4
-
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/4.1.jpg)
 
 
 
 
----
