@@ -27,6 +27,7 @@
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.2.jpg)
+https://github.com/Fedor-Bee/git_homework/blob/main/img/1.1.jpg
 
 ---
 
