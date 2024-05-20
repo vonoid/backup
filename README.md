@@ -35,8 +35,6 @@
 
 ![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.1.jpg)
 ![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.2.jpg)
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.3.jpg)
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.4.jpg)
 
 
 
