@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Баграш Фёдор`
+# Домашнее задание к занятию "`Резервное копирование`" - `Баграш Фёдор`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -26,14 +26,14 @@
 
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.2.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.3.jpg)
+
 
 ---
 
 ### Задание 2
 
 ![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.1.jpg)
+![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.2.jpg)
 ![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.2.jpg)
 
 
