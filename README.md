@@ -26,19 +26,15 @@
 
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
-
-
----
-
-### Задание 2
-
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.1.jpg)
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.2.jpg)
-![alt text](https://github.com/Fedor-Bee/git_homework/blob/main/img/2.2.jpg)
-
-
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.2.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.3.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.4.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.5.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.6.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.7.jpg)
 
 ---
+
 
 
 
