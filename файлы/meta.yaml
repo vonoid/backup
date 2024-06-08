@@ -1,0 +1,26 @@
+#cloud-config
+ disable_root: true
+ timezone: Europe/Moscow
+ repo_update: true
+ apt:
+   preserve_sources_list: true
+ packages:
+  - nginx
+ runcmd:
+  - [ systemctl, nginx-reload ]
+  - [ systemctl, enable, nginx.service ]
+  - [ systemctl, start, --no-block, nginx.service ]
+ users:
+  - name: aleks
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh-authorized-keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCojDiK4NpR6TWyerAPOzUEuS4zd4yEi7GA396OKRgaGBP3Kii65Lqs+h7L9yhbozaUtLl/oasUN7JtqDtkttlt1pgZpJ3xUx45n3UlTTWC/EAPBgKA/S1wVSJDLA6GgaiRFkPWl3wuwi+Wz5Y6aHkBdd/PDsBNBJhMACR08u5JL3OuZ4hJsM1Gqs7XSoQVJeclLg4O/KtjDIUT8aPfZ6VUKH1niodCHNbFwNTrAkG5LJiZvYqRN5m8JFnTIUyl1rtz5Ik/LdKmiOSf+GDM2MnyVr9A1/D1HaOCl+79u3xo90G4VpbHpcHC8TAEWvh6QYFoYWKufG/G6V4bwHMP3w9aprWcpks0Gjc2OGJzMEkdapdurt2lUK+yeFYDwiEBqiMC/VELIkML4fQYgKZZZt2iYMw15WMrCzuaeXlmML8HrLp2dqo4nLUzEYpmEEz/QBwu+wOU/tOfl+CmYf1ZHdnGDMGtY6vq449I0DwAkC/4HZG0HcH6WiszvOxHRZtTIsc= aleks@BIG
+ users:
+  - name: aleks
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh-authorized-keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCojDiK4NpR6TWyerAPOzUEuS4zd4yEi7GA396OKRgaGBP3Kii65Lqs+h7L9yhbozaUtLl/oasUN7JtqDtkttlt1pgZpJ3xUx45n3UlTTWC/EAPBgKA/S1wVSJDLA6GgaiRFkPWl3wuwi+Wz5Y6aHkBdd/PDsBNBJhMACR08u5JL3OuZ4hJsM1Gqs7XSoQVJeclLg4O/KtjDIUT8aPfZ6VUKH1niodCHNbFwNTrAkG5LJiZvYqRN5m8JFnTIUyl1rtz5Ik/LdKmiOSf+GDM2MnyVr9A1/D1HaOCl+79u3xo90G4VpbHpcHC8TAEWvh6QYFoYWKufG/G6V4bwHMP3w9aprWcpks0Gjc2OGJzMEkdapdurt2lUK+yeFYDwiEBqiMC/VELIkML4fQYgKZZZt2iYMw15WMrCzuaeXlmML8HrLp2dqo4nLUzEYpmEEz/QBwu+wOU/tOfl+CmYf1ZHdnGDMGtY6vq449I0DwAkC/4HZG0HcH6WiszvOxHRZtTIsc= aleks@BIG
