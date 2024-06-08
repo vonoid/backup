@@ -9,6 +9,8 @@
 -----
 
 ![Скриншот 1](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/Отказоустойчивость/img/отк%201.png)
+-----
 ![Скриншот 2](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/Отказоустойчивость/img/отк%202.png)
+-----
 ![Скриншот 3](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/Отказоустойчивость/img/отк%203.png)
-
+-----
