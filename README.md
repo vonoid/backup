@@ -8,7 +8,7 @@
    3. Выполните домашнее задание и заполните у себя локально этот файл README.md:
       - впишите вверху название занятия и вашу фамилию и имя
       - в каждом задании добавьте решение в требуемом виде (текст/код/скриншоты/ссылка)
-      - для корректного добавления скриншотов воспользуйтесь [инструкцией "Как вставить скриншот в шаблон с решением](https://github.com/netology-code/sys-pattern-homework/blob/main/screen-instruction.md)
+      - для корректного добавления скриншотов воспользуйтесь [инструкцией "Как вставить скриншот в шаблон с решением](https://github.com/netology-code/sys-pattern-homework/blob/main/screen-instruction.md) ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/.jpg)
       - при оформлении используйте возможности языка разметки md (коротко об этом можно посмотреть в [инструкции  по MarkDown](https://github.com/netology-code/sys-pattern-homework/blob/main/md-instruction.md))
    4. После завершения работы над домашним заданием сделайте коммит (`git commit -m "comment"`) и отправьте его на Github (`git push origin`);
    5. Для проверки домашнего задания преподавателем в личном кабинете прикрепите и отправьте ссылку на решение в виде md-файла в вашем Github.
@@ -25,13 +25,7 @@
 ### Задание 1
 
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.2.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.3.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.4.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.5.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.6.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.7.jpg)
+
 
 ---
 
