@@ -46,7 +46,7 @@
 ### Задание 4
 
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.jpg)
 
 --- 
 
