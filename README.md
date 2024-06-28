@@ -24,37 +24,29 @@
 
 ### Задание 1
 
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
 
-Кеширование увеличивает производительность сильно нагруженных баз данных.\
-Долго загружается страница сайта.\
-Долго открывается товар на сайте.
 
 --- 
 ### Задание 2
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.jpg)
 
 --- 
 ### Задание 3
 
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.jpg)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.3.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.jpg)
+
 
 --- 
 ### Задание 4
 
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/4.1.jpg)
 
 --- 
 
-### Задание 5
 
-
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/4.1.jpg)
-
----
 
 
