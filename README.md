@@ -30,7 +30,7 @@
 --- 
 ### Задание 2
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.jpg)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.png)
 
 --- 
 ### Задание 3
