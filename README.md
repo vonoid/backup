@@ -32,17 +32,17 @@
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.png)
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.3.png)
+
 
 --- 
 ### Задание 3
 
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.2.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.3.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.4.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.5.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.2.png)\
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.3.png)\
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.4.png)\
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.5.png)\
 
 
 --- 
