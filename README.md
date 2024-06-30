@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Резервное копирование`" - `Баграш Фёдор`
+# Домашнее задание к занятию "`Очереди RabbitMQ`" - `Баграш Фёдор`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -31,21 +31,22 @@
 ### Задание 2
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.3.png)
 
 --- 
 ### Задание 3
 
 
 ![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.2.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.3.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.4.png)
+![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.5.png)
 
 
 --- 
-### Задание 4
 
-
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/4.1.png)
-
---- 
 
 
 
