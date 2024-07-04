@@ -24,30 +24,38 @@
 
 ### Задание 1
 
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/1.1.png)
-
+Сотрудники(
+   Первичный ключ
+   Фамилия varchar(255)
+   Имя varchar(255)
+   Отчество varchar(255)
+)
+Должности(
+   Первичный ключ
+   Должность varchar(255)
+)
+Типы подразделений(
+   Первичный ключ
+   Тип подразделения varchar(255)
+)
+Структурные подразделения(
+   Первичный ключ
+   Название подразделения varchar(255)
+)
+Адреса филиалов(
+   Первичный ключ
+   Адрес филиала varchar(255)
+)
+Даты найма(
+   Первичный ключ 
+   Дата найма data
+)
+Проекты(
+   Первичный ключ
+   Проект json
+)
 
 --- 
-### Задание 2
-
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.1.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/2.2.png)
-
-
---- 
-### Задание 3
-
-
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.1.png)
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.2.png)\
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.3.png)\
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.4.png)\
-![alt text](https://github.com/fedor-bee/git_homework/blob/main/img/3.5.png)
-
-
---- 
-
-
 
 
 
