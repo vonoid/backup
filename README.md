@@ -11,6 +11,7 @@
 
 ### Решение 1
 
+![Скриншот1](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/ELK/фото/1.png)
 
 ---
 
@@ -22,6 +23,8 @@
 
 ### Решение 2
 
+![Скриншот2](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/ELK/фото/2.png)
+
 ---
 
 ### Задание 3. Logstash
@@ -32,6 +35,8 @@
 
 ### Решение 3
 
+![Скриншот3](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/ELK/фото/3.png)
+
 ---
 
 ### Задание 4. Filebeat. 
@@ -41,6 +46,8 @@
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
 ### Решение 4
+
+![Скриншот4](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/ELK/фото/4.png)
 
 ---
 
