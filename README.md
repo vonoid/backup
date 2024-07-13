@@ -28,11 +28,35 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
 ### Решение 1
-![Скриншот-1]()
-![Скриншот-2]()
-![Скриншот-3]()
-![Скриншот-4]()
+![Скриншот-1](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/DDL/DML/фото/1-1%20ddl.png)
+![Скриншот-2](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/DDL/DML/фото/1-2%20ddl.png)
+![Скриншот-3](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/DDL/DML/фото/1-3%20ddl.png)
+![Скриншот-4](https://github.com/AleksanderB5/sys-pattern-homework-8-2/blob/DDL/DML/фото/1-4%20ddl.png)
 
+```
+sudo apt-get install mysql-server
+systemctl status mysql
+mysql -u root -p
+CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY '****';
+SELECT User,Host FROM mysql.user;
+GRANT ALL PRIVILEGES ON *.* TO sys_temp@localhost;
+SHOW GRANTS FOR 'sys_temp'@'localhost';
+\quit
+unzip sakila-db.zip
+mysql -u sys_temp -p
+CREATE DATABASE `sakila`;
+SHOW DATABASES;
+exit
+export ASNAME=sakila
+mysql -u sys_temp -p ${ASNAME} < /home/aleks/Загрузки/sakila-db/sakila-schema.sql
+mysql -u sys_temp -p ${ASNAME} < /home/aleks/Загрузки/sakila-db/sakila-data.sql
+mysql -u sys_temp -p
+SHOW DATABASES;
+USE sakila;
+SHOW TABLES;
+exit
+
+```
 ---
 
 ### Задание 2
