@@ -24,13 +24,23 @@
 
 ### Задание 1
 
-![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image2.png)
 ![[alt text](https://github.com/tud777777/git_homework/main/img/image2.png)](https://github.com/tud777777/git_homework/blob/main/img/image1.png)
-![[alt text](https://github.com/tud777777/git_homework/main/img/image3.png)](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
 
 --- 
 ### Задание 2
 
-![https://github.com/tud777777/git_homework/main/img/image.png](https://github.com/tud777777/git_homework/blob/main/img/image.png)
+![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image2.png)
+
+--- 
+
+### Задание 3
+
+![[alt text](https://github.com/tud777777/git_homework/main/img/image3.png)](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
+
+--- 
+
+### Задание 4
+
+![[alt text](https://github.com/tud777777/git_homework/main/img/image3.png)](https://github.com/tud777777/git_homework/blob/main/img/image4.png)
 
 --- 
