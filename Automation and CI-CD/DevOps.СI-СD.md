@@ -14,7 +14,9 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 1
-
+![alt text]https://github.com/DinisGaliev/netology-hw/blob/main/Automation%20and%20CI-CD/image/Configure%201%20my_pipline.png
+![alt text]https://github.com/DinisGaliev/netology-hw/blob/main/Automation%20and%20CI-CD/image/Configure%202%20my_pipline.png
+![alt text]https://github.com/DinisGaliev/netology-hw/blob/main/Automation%20and%20CI-CD/image/build9.png
 
 ---
 
