@@ -34,8 +34,7 @@
 
 ### Ответ 1
 
-![Настройки раннера в проекта](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
-
+![Настройки раннера в проекта](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/1-1.png)
 ---
 
 ### Задание 2
@@ -52,6 +51,9 @@
  
 
 ### Ответ 2
+
+![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-02/img/2-2.png)
+![Результат сборки](https://github.com/DeFranS325/sys-pattern-homework/blob/8-02/img/2-1.png)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
