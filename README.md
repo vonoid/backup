@@ -33,9 +33,5 @@
 
 --- 
 
-### Задание 3
 
-![[alt text](https://github.com/tud777777/git_homework/main/img/image3.png)](https://github.com/tud777777/git_homework/blob/main/img/image.png)
-
---- 
 
