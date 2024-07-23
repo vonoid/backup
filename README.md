@@ -34,6 +34,8 @@
 
 ### Ответ 1
 
+![Настройки раннера в проекта](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
+
 ---
 
 ### Задание 2
