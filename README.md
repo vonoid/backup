@@ -52,8 +52,8 @@
 
 ### Ответ 2
 
-![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-02/img/2-2.png)
-![Результат сборки](https://github.com/DeFranS325/sys-pattern-homework/blob/8-02/img/2-1.png)
+![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/2-2.png)
+![Результат сборки](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/2-1.png)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
@@ -72,3 +72,8 @@
 В качестве ответа добавьте в шаблон с решением файл gitlab-ci.yml своего проекта или вставьте код в соответсвующее поле в шаблоне.
 
 ### Ответ 3
+
+Без изменений Go-файлов
+![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-1.png)
+С изменением Go-файлов
+![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-2.png)
