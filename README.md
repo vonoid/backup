@@ -28,8 +28,11 @@
 
 --- 
 ### Задание 2
-
+Начальный запрос
 ![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image2.png)
+Новый запрос
+![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
+![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image4.png)
 
 --- 
 
