@@ -73,7 +73,9 @@
 
 ### Ответ 3
 
+Файл .gitlab-ci.yml
+![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-3.png)
 Без изменений Go-файлов
-![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-1.png)
+![Результат](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-1.png)
 С изменением Go-файлов
-![Файл .gitlab-ci.yml](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-2.png)
+![Результат](https://github.com/DeFranS325/sys-pattern-homework/blob/8-03/img/3-2.png)
