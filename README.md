@@ -34,12 +34,13 @@ Master-Master\
 
 --- 
 ### Задание 2
-Начальный запрос
-![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image2.png)
-Новый запрос
+
+![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image10.png)
+Master
+![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image20.png)
+Slave
 ![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image30.png)
-![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image50.png)
-![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image60.png)
+
 
 --- 
 
