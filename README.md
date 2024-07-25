@@ -36,7 +36,7 @@ Master-Master\
 ### Задание 2
 
 ![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image10.png)\
-Master
+Master\
 ![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image20.png)\
 Slave
 ![[alt text](https://github.com/tud777777/git_homework/main/img/image1.png)](https://github.com/tud777777/git_homework/blob/main/img/image30.png)
