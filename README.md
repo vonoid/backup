@@ -32,9 +32,10 @@
 --- 
 ### Задание 2
 
-Резервирование данных
-`pg_dump -U postgres -h localhost -d my_database -F c -f /path/to/backup/my_database.backup`
-
+Резервирование данных:\
+`pg_dump -U postgres -h localhost -d my_database -F c -f /path/to/backup/my_database.backup`\
+Восстановление данных:\
+`pg_restore -U postgres -h localhost -d my_database -c -v /path/to/backup/my_database.backup`
 
 --- 
 
