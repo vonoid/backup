@@ -38,6 +38,13 @@
 `pg_restore -U postgres -h localhost -d my_database -c -v /path/to/backup/my_database.backup`
 
 --- 
+### Задание 3
+
+Инкрементное резервное копирование:\
+`mysqlbackup --defaults-file=/path/to/my.cnf --backup-dir=/path/to/backup-dir --incremental --incremental-base=history:last_backup backup`
+
+
+--- 
 
 
 
