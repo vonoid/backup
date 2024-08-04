@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="UPDATE task1 DDL_DML.md">
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-04_031204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-04_102709.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-04_111040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-04_121631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/hw_12-03.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +62,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "HW.12-2",
+    "git-widget-placeholder": "HW__12-03",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных",
     "settings.editor.selected.configurable": "Console"
@@ -74,6 +79,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vasil\PycharmProjects\Works\img" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
