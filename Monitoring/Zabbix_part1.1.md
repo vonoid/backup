@@ -17,7 +17,9 @@
 
 ### Решение 1
 #### 1. Cкриншот авторизации в админке.
+
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_1.1.png)
+
 #### 2. Используемые команды при инсталяции:
 1.  Установка базы данных PostgreSQL:
 apt install postgresql
@@ -58,11 +60,17 @@ systemctl enable zabbix-agent
 sed -i 's/Server=127.0.0.1/Server=192.168.0.10/g' /etc/zabbix/zabbix_agentd.conf
 
 Скриншот раздела configuration:
+
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.1.png)
+
 Cкриншот лога zabbix agent:
+
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.2.png)
+
 Cкриншот раздела Monitoring > Latest data для хостов:
+
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.3.png)
+
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.4.png)
 
 ---
