@@ -25,7 +25,7 @@ apt install postgresql
 wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_7.0-2+ubuntu22.04_all.deb
 dpkg -i zabbix-release_7.0-2+ubuntu22.04_all.deb
 apt update
-3. Установите Zabbix сервер, веб-интерфейс и агента:
+3. Установка Zabbix сервер, веб-интерфейс и агента:
 apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
 4. Создание базы данных и пользователя:
 sudo -u postgres createuser --pwprompt zabbix
@@ -38,6 +38,9 @@ nano /etc/zabbix/zabbix_server.conf далее в файле напротив DB
 7. Рестарт и добавление в автозагрузку веб сервера, Zabbix сервера и Zabbix агента:
 systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
+8. Открываем веб-страницу Zabbix UI:
+http://host/zabbix
+
 ---
 
 ## Задание 2 
@@ -58,6 +61,17 @@ systemctl enable zabbix-server zabbix-agent apache2
 4. Приложите в файл README.md текст использованных команд в GitHub
 
 ### Решение 2
+В качестве одного из хостов использована машина с Zabbix сервером, в качестве второго - ВМ c ОС Debian 12.04
+1. Установка заббикс агента
+sudo apt install zabbix-agent
+2. Рестарт и добавление в автозагрузку Заббикс агента
+systemctl restart zabbix-agent
+systemctl enable zabbix-agent
+3. Настраиваем параметры подключения заббикс агента к серверу (прописываем адреса хостов) на ВМ: 
+sed -i 's/Server=127.0.0.1/Server=192.168.0.10/g' /etc/zabbix/zabbix_agentd.conf
+
+Скриншот раздела configuration:
+![Скриншот настройки проекта]
 
 ---
 ## Задание 3 со звёздочкой*
