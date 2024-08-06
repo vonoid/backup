@@ -53,21 +53,22 @@ http://host/zabbix
 В качестве одного из хостов использована машина с Zabbix сервером, в качестве второго - ВМ c ОС Debian 12.04
 1. Установка заббикс агента
 sudo apt install zabbix-agent
-2. Рестарт и добавление в автозагрузку Заббикс агента
+2. Рестарт и добавление в автозагрузку Zabbix агента
 systemctl restart zabbix-agent
 systemctl enable zabbix-agent
 3. Настраиваем параметры подключения заббикс агента к серверу (прописываем адреса хостов) на ВМ: 
 sed -i 's/Server=127.0.0.1/Server=192.168.0.10/g' /etc/zabbix/zabbix_agentd.conf
+sed -i 's/ServerActive=127.0.0.1/ServerActive=192.168.0.10/g' /etc/zabbix/zabbix_agentd.conf
 
-Скриншот раздела configuration:
+#### Скриншот раздела configuration:
 
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.1.png)
 
-Cкриншот лога zabbix agent:
+#### Cкриншот лога zabbix agent:
 
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.2.png)
 
-Cкриншот раздела Monitoring > Latest data для хостов:
+#### Cкриншот раздела Monitoring > Latest data для хостов:
 
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_2.3.png)
 
