@@ -7,7 +7,7 @@
 
 ### Решение 1
 
-#### 1. Cкриншот авторизации в админке.
+#### 1. Cкриншот авторизации:
 
 ![Скриншот настройки проекта](https://github.com/DinisGaliev/netology-hw/blob/main/Monitoring/img/Zabbix_part1_1.1.png)
 
