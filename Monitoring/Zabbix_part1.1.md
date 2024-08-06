@@ -28,7 +28,16 @@ apt update
 3. Установите Zabbix сервер, веб-интерфейс и агента:
 apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
 4. Создание базы данных и пользователя:
-
+sudo -u postgres createuser --pwprompt zabbix
+sudo -u postgres createdb -O zabbix zabbix
+5. Импорт начальной схемы и данных на хост Zabbix сервера:
+zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+6. Настройка пароля для базы данных
+Редактируем файл /etc/zabbix/zabbix_server.conf
+nano /etc/zabbix/zabbix_server.conf далее в файле напротив DBPassword= указываем наш пароль
+7. Рестарт и добавление в автозагрузку веб сервера, Zabbix сервера и Zabbix агента:
+systemctl restart zabbix-server zabbix-agent apache2
+systemctl enable zabbix-server zabbix-agent apache2
 ---
 
 ## Задание 2 
