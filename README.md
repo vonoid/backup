@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Резервное копирование баз данных`" - `Баграш Фёдор`
+# Домашнее задание к занятию "`Базы данных в облаке`" - `Баграш Фёдор`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -24,24 +24,7 @@
 
 ### Задание 1
 
-1.1 В этом случае подходят все типы бэкапов.\
-1.2 В этом случае подходит Incremental backup и differential backup.\
-1.3 Нет, нужно востанавливать бэкап.
 
-
---- 
-### Задание 2
-
-Резервирование данных:\
-`pg_dump -U postgres -h localhost -d my_database -F c -f /path/to/backup/my_database.backup`\
-Восстановление данных:\
-`pg_restore -U postgres -h localhost -d my_database -c -v /path/to/backup/my_database.backup`
-
---- 
-### Задание 3
-
-Инкрементное резервное копирование:\
-`mysqlbackup --defaults-file=/path/to/my.cnf --backup-dir=/path/to/backup-dir --incremental --incremental-base=history:last_backup backup`
 
 
 --- 
