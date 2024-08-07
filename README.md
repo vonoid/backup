@@ -24,8 +24,8 @@
 
 ### Задание 1
 
-[1](https://github.com/tud777777/git_homework/blob/main/img/image6.png)
-[1](https://github.com/tud777777/git_homework/blob/main/img/image5.png)
+[](https://github.com/tud777777/git_homework/blob/main/img/image6.png)
+[](https://github.com/tud777777/git_homework/blob/main/img/image5.png)
 
 
 --- 
