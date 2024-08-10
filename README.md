@@ -42,9 +42,9 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 1
-```
-https://github.com/ArtemPestro/git/commit/593c1547a8a9c0758b9257c74004f7b57e45aed1
-```
+
+[Ссылка](https://github.com/ArtemPestro/git/commit/593c1547a8a9c0758b9257c74004f7b57e45aed1) на коммит
+
 
 
 ---
@@ -61,9 +61,9 @@ https://github.com/ArtemPestro/git/commit/593c1547a8a9c0758b9257c74004f7b57e45ae
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 2
-```
-https://github.com/ArtemPestro/git/commit/5fe44030cd4eb2aebe1139ffdcc7169aae86395e
-```
+
+[Ссылка](https://github.com/ArtemPestro/git/commit/5fe44030cd4eb2aebe1139ffdcc7169aae86395e) на коммит.
+
 
 
 ---
@@ -88,9 +88,9 @@ https://github.com/ArtemPestro/git/commit/5fe44030cd4eb2aebe1139ffdcc7169aae8639
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
 
 ### Решение 3
-```
-https://github.com/ArtemPestro/git/network
-```
+
+[Граф](https://github.com/ArtemPestro/git/network) коммитов.
+
 
 ---
 
@@ -112,8 +112,8 @@ https://github.com/ArtemPestro/git/network
 
 ### Решение 4
 Конфликт слияния git:
-```
-https://github.com/ArtemPestro/git/network
-https://pastebin.com/e87qc2YV
-```
+
+[Граф](https://github.com/ArtemPestro/git/network) коммитов.
+[Pastebin](https://pastebin.com/e87qc2YV) файла с конфликтом.
+
 Был разрешён редактированием конфликтного файла с сохранением изменений ветки conflict.
