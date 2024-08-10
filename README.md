@@ -90,6 +90,7 @@
 ### Решение 3
 
 ![screenshot](https://github.com/ArtemPestro/git-hw/blob/main/img/netgraph1.png?raw=true)
+
 [Граф](https://github.com/ArtemPestro/git/network) коммитов.
 
 
@@ -115,7 +116,9 @@
 Конфликт слияния git:
 
 ![screenshot](https://github.com/ArtemPestro/git-hw/blob/main/img/netgraph2.png?raw=true)
+
 [Граф](https://github.com/ArtemPestro/git/network) коммитов.
+
 [Pastebin](https://pastebin.com/e87qc2YV) файла с конфликтом.
 
 Был разрешён редактированием конфликтного файла с сохранением изменений ветки conflict.
