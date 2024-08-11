@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="UPDATE task1 DDL_DML.md">
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-04_150144.png" afterDir="false" />
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="correction">
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-11_005557.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-11_020755.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-11_032241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/hw_12-04.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/hw_12-03.md" beforeDir="false" afterPath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/hw_12-03.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;HW__12-03&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "HW__12-04",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных",
+    "settings.editor.selected.configurable": "Console"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vasil\PycharmProjects\Works\Реляционные базы данных и администрирование баз данных" />
@@ -272,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722764556297</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="correction">
+      <option name="closed" value="true" />
+      <created>1722773586934</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722773586934</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +314,7 @@
     <MESSAGE value="done task2 DDL_DML.md" />
     <MESSAGE value="UPDATE task1 DDL_DML.md" />
     <MESSAGE value="add screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="add screen" />
+    <MESSAGE value="correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction" />
   </component>
 </project>
