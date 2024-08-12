@@ -23,41 +23,75 @@
 ---
 
 ### Задание 1
-Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
+Одним запросом получите информацию о магазине, в котором обслуживается более 300 покупателей, и выведите в результат следующую информацию:
+
+фамилия и имя сотрудника из этого магазина;
+город нахождения магазина;
+количество пользователей, закреплённых в этом магазине.
+
 
 ```
-SELECT DISTINCT district 
-FROM address 
-WHERE district LIKE 'K%a' AND district NOT LIKE '% %';
+SELECT 
+    s.first_name, 
+    s.last_name, 
+    c.city, 
+    COUNT(cu.customer_id) as количество_пользователей
+FROM 
+    customer cu
+JOIN 
+    store st ON cu.store_id = st.store_id
+JOIN 
+    staff s ON st.manager_staff_id = s.staff_id
+JOIN 
+    address a ON st.address_id = a.address_id
+JOIN 
+    city c ON a.city_id = c.city_id
+GROUP BY 
+    s.first_name, 
+    s.last_name, 
+    c.city
+HAVING 
+    COUNT(cu.customer_id) > 300;
 ```
-![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL1/img/1.png)`
+![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/1.png)`
 
 
 ---
 
 ### Задание 2
-Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
+Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
 ```
-SELECT * 
-FROM payment 
-WHERE payment_date BETWEEN '2005-06-15' AND '2005-06-18' AND amount > 10.00;
+SELECT 
+    COUNT(*) as количество_фильмов
+FROM 
+    film
+WHERE 
+    length > (SELECT AVG(length) FROM film);
 ```
-![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL1/img/2.png)`
+![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/2.png)`
 
 
 ---
 
 ### Задание 3
-Получите последние пять аренд фильмов.
-
+Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 ```
-SELECT * 
-FROM rental 
-ORDER BY rental_date DESC 
-LIMIT 5;
+SELECT 
+    MONTH(p.payment_date) as месяц, 
+    SUM(p.amount) as сумма_платежей, 
+    COUNT(r.rental_id) as количество_аренд
+FROM 
+    payment p
+JOIN 
+    rental r ON p.rental_id = r.rental_id
+GROUP BY 
+    MONTH(p.payment_date)
+ORDER BY 
+    сумма_платежей DESC
+LIMIT 1;   
 ```
-![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL1/img/3.png)`
+![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/3.png)`
 
 ### Задание 4
 Одним запросом получите активных покупателей, имена которых Kelly или Willie.
