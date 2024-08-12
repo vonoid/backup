@@ -78,7 +78,7 @@ WHERE
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 ```
 SELECT 
-    MONTH(p.payment_date) as месяц, 
+    DATE_FORMAT(p.payment_date, '%Y-%M') as период, 
     SUM(p.amount) as сумма_платежей, 
     COUNT(r.rental_id) as количество_аренд
 FROM 
@@ -86,9 +86,9 @@ FROM
 JOIN 
     rental r ON p.rental_id = r.rental_id
 GROUP BY 
-    MONTH(p.payment_date)
+    DATE_FORMAT(p.payment_date, '%Y-%M')
 ORDER BY 
     сумма_платежей DESC
-LIMIT 1;   
+LIMIT 1; 
 ```
 ![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/3.png)`
