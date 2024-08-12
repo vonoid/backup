@@ -92,23 +92,3 @@ ORDER BY
 LIMIT 1;   
 ```
 ![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/3.png)`
-
-### Задание 4
-Одним запросом получите активных покупателей, имена которых Kelly или Willie.
-
-Сформируйте вывод в результат таким образом:
-
-все буквы в фамилии и имени из верхнего регистра переведите в нижний регистр,
-замените буквы 'll' в именах на 'pp'.
-
-```
-SELECT 
-  LOWER(REPLACE(first_name, 'LL', 'PP')) AS имя,
-  LOWER(REPLACE(last_name, 'LL', 'PP')) AS фамилия
-FROM 
-  customer
-WHERE 
-  active = 1 AND 
-  LOWER(first_name) IN ('kelly', 'willie');
-```
-![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL1/img/4.png)`
