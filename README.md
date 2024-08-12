@@ -91,4 +91,4 @@ ORDER BY
     сумма_платежей DESC
 LIMIT 1; 
 ```
-![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/3.png)`
+![Название скриншота 1](https://github.com/drumspb/sys-pattern-homework/blob/SQL2/img/5.png)`
