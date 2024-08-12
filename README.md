@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image1.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image1.png)\
 Уязвимости:\
 https://www.exploit-db.com/exploits/49757 \
 https://www.exploit-db.com/exploits/16922 \
