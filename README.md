@@ -24,32 +24,17 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image1.png)\
-Уязвимости:\
-https://www.exploit-db.com/exploits/49757 \
-https://www.exploit-db.com/exploits/16922 \
-https://www.exploit-db.com/exploits/22775
+![](https://github.com/tud777777/git_homework/blob/main/img/image10.png)
 
 
 --- 
 
 ### Задание 2
 
-SYN\
-![](https://github.com/tud777777/git_homework/blob/main/img/image2.png)\
-Быстрое и скрытное сканирование, так как оно не завершает полное TCP-соединение и может быть менее заметно для систем обнаружения.\
-\
-FIN\
-![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)\
-Подходит для сканирования систем, которые игнорируют нестандартные пакеты на открытых портах, что помогает обходить некоторые системы обнаружения.\
-\
-Xmas\
-![](https://github.com/tud777777/git_homework/blob/main/img/image4.png)\
-Сканирование "Xmas" иногда помогает выявлять скрытые порты на системах, которые иначе блокируют стандартные сканирования.\
-\
-UDP\
-![](https://github.com/tud777777/git_homework/blob/main/img/image.png)\
-Используется для поиска UDP-сервисов (например, DNS, SNMP), но это более медленный процесс по сравнению с TCP-сканированием, так как UDP требует больше времени для обработки из-за отсутствия ответов.
+
+![](https://github.com/tud777777/git_homework/blob/main/img/image20.png)\
+![](https://github.com/tud777777/git_homework/blob/main/img/image21.png)
+
 
 --- 
 
