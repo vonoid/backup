@@ -24,8 +24,9 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image11.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/image12.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image1.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image2.png)
+Suricata показывает что эту машину сканируют и пишет ip машины которая сканирует.
 
 
 --- 
@@ -33,8 +34,8 @@
 ### Задание 2
 
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image20.png)\
-![](https://github.com/tud777777/git_homework/blob/main/img/image21.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)\
+![](https://github.com/tud777777/git_homework/blob/main/img/image4.png)
 
 
 --- 
