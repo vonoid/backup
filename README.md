@@ -34,8 +34,8 @@ Suricata показывает что эту машину сканируют и �
 ### Задание 2
 
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)\
-![](https://github.com/tud777777/git_homework/blob/main/img/image4.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
+fail2ban заблокировал ip атакующий машины за большое колличество ошибок при вводе пароля.
 
 
 --- 
