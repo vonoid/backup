@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="correction" />
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="correction">
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-29_104231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-08-29_135219.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Реляционные базы данных и администрирование баз данных/hw_12-05.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HW_12-04" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +60,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "HW__12-05",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных",
     "settings.editor.selected.configurable": "Console"
@@ -284,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723363409938</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="correction">
+      <option name="closed" value="true" />
+      <created>1724929507019</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724929507019</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
