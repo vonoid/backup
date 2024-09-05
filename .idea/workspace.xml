@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="correction" />
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="correction">
+      <change afterPath="$PROJECT_DIR$/img/2024-09-05_06-52-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_071612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_074851.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_112742.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_113804.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_180627.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_183452.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_184448.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_185601.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Системы управления версиями/HW_02-git-01-vcs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="HW_12-05" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,14 +44,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="60fe2364-e55f-4d31-8bdb-107f0bfb6010" />
-        <option name="url" value="https://github.com/nikolai-vasilyev/Works.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nikolai-vasilyev/Works.git&quot;,
+    &quot;accountId&quot;: &quot;60fe2364-e55f-4d31-8bdb-107f0bfb6010&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,16 +61,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных",
-    "settings.editor.selected.configurable": "Console"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vasil\PycharmProjects\Works\Реляционные базы данных и администрирование баз данных" />
@@ -71,12 +81,13 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vasil\PycharmProjects\Works\img" />
+      <recent name="C:\Users\vasil\PycharmProjects\Works" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -292,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724929507019</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="correction">
+      <option name="closed" value="true" />
+      <created>1724938021090</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1724938021090</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,8 +343,8 @@
     <MESSAGE value="done task2 DDL_DML.md" />
     <MESSAGE value="UPDATE task1 DDL_DML.md" />
     <MESSAGE value="add screen" />
-    <MESSAGE value="correction" />
     <MESSAGE value="hw_12-05.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_12-05.md" />
+    <MESSAGE value="correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction" />
   </component>
 </project>
