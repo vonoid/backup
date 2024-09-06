@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="correction">
-      <change afterPath="$PROJECT_DIR$/img/2024-09-05_06-52-37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_071612.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_074851.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_112742.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_113804.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_180627.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_183452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_184448.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-05_185601.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Системы управления версиями/HW_02-git-01-vcs.md" afterDir="false" />
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="HW-version_control">
+      <change afterPath="$PROJECT_DIR$/img/2024-09-07_00-47-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2024-09-07_00-47-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2024-09-07_01-18-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2024-09-07_01-33-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-06_002839.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_004508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_011816.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_013505.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_015443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Системы управления версиями/HW_02-git-02-base.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HW_12-05" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,23 +61,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vasil/PycharmProjects/Works/Реляционные базы данных и администрирование баз данных&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "02-git-02-base",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vasil/PycharmProjects/Works/Системы управления версиями",
+    "settings.editor.selected.configurable": "configurable.group.project"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vasil\PycharmProjects\Works\Системы управления версиями" />
       <recent name="C:\Users\vasil\PycharmProjects\Works\Реляционные базы данных и администрирование баз данных" />
       <recent name="C:\Users\vasil\PycharmProjects\Works\Python" />
       <recent name="C:\Users\vasil\PycharmProjects\Works\Системы хранения и передачи данных" />
       <recent name="C:\Users\vasil\PycharmProjects\Works\img" />
-      <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vasil\PycharmProjects\Works\img" />
@@ -311,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724938021090</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="HW-version_control">
+      <option name="closed" value="true" />
+      <created>1725554131560</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725554131560</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,6 +353,7 @@
     <MESSAGE value="add screen" />
     <MESSAGE value="hw_12-05.md" />
     <MESSAGE value="correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction" />
+    <MESSAGE value="HW-version_control" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW-version_control" />
   </component>
 </project>
