@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="HW-version_control">
-      <change afterPath="$PROJECT_DIR$/img/2024-09-07_00-47-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2024-09-07_00-47-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2024-09-07_01-18-56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2024-09-07_01-33-44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-06_002839.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_004508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_011816.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_013505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Снимок_экрана_2024-09-07_015443.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Системы управления версиями/HW_02-git-02-base.md" afterDir="false" />
+    <list default="true" id="ae9fe959-c881-46c3-a017-f3511f7cc5a1" name="Changes" comment="HW_02-git-02-base">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +55,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "02-git-02-base",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/vasil/PycharmProjects/Works/Системы управления версиями",
     "settings.editor.selected.configurable": "configurable.group.project"
