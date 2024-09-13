@@ -76,19 +76,16 @@ pipeline {
     stages {
         stage('Git') {
             steps {
-                // Клонируем репозиторий
-                git 'https://github.com/netology-code/sdvps-materials.git'
+               git 'https://github.com/netology-code/sdvps-materials.git'
             }
         }
         stage('Test') {
             steps {
-                // Запускаем тесты
                 sh 'go test .'
             }
         }
         stage('Build') {
             steps {
-                // Сборка бинарного файла
                 sh '''
                 mkdir -p mkdir -p /var/lib/jenkins/workspace/github
                 cp -r . /var/lib/jenkins/workspace/github
@@ -99,15 +96,12 @@ pipeline {
         }
         stage('Upload to Nexus') {
             steps {
-                // Загрузка бинарного файла в Nexus
                 script {
                     def nexusUrl = 'http://localhost:8081/repository/raw/'
                     def file = 'app'
 
-                    // Устанавливаем URL и файл для загрузки
                     def uploadUrl = "${nexusUrl}${file}?e=${file}"
                     
-                    // Выполняем команду для загрузки файла
                     sh """curl -v -u admin:admin \
                         --upload-file /var/lib/jenkins/workspace/github/app \
                         ${uploadUrl}
