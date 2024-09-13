@@ -41,9 +41,10 @@
 ....
 ....
 ....
-```
 
-`При необходимости прикрепитe сюда скриншоты
+
+При необходимости прикрепитe сюда скриншоты
+
 ![3](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/2.1.png)
 
 ![4](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/2.2.png)
@@ -63,7 +64,7 @@
 4. Загрузите файл в репозиторий с помощью jenkins.
 
 
-```
+
 Поле для вставки кода...
 
 ```
@@ -119,7 +120,8 @@ pipeline {
 } 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
+При необходимости прикрепитe сюда скриншоты
+
 ![6](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/3.1.png)
 
 ![7](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/3.5.png)
