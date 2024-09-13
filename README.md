@@ -21,8 +21,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![1](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/1.png)`
-![2](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/1.2.png)`
+![1](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/1.png)
+
+![2](https://github.com/Vasiliy-Ser/sys-pattern-homework-8-02/blob/homework8.2/Devops.CI-CD/1.2.png)
 
 
 
