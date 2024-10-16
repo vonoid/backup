@@ -136,11 +136,12 @@ services:
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
-```shell
-docker cp $(docker create --name terra hashicorp/terraform):/bin/terraform ./bin/terraform && docker rm terra
-```
+>```shell
+>docker cp $(docker create --name terra hashicorp/terraform):/bin/terraform ./bin/terraform && docker rm terra
+>```
 >![img](/img/Снимок%20экрана%202024-10-16%20085939.png)
 
+>[Дополненный форк репозитория](https://github.com/nikolai-vasilyev/shvirtd-example-python/tree/main)
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
 Предоставьте скриншоты  действий .
