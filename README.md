@@ -24,10 +24,10 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
-
+![](https://github.com/tud777777/git_homework/blob/main/img/img1.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/img2.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/img3.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/img4.png)
 
 --- 
 
