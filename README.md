@@ -24,9 +24,9 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/image1.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/image2.png)
-Suricata показывает что эту машину сканируют и пишет ip машины которая сканирует.
+![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
 
 
 --- 
@@ -35,7 +35,7 @@ Suricata показывает что эту машину сканируют и �
 
 
 ![](https://github.com/tud777777/git_homework/blob/main/img/image3.png)
-fail2ban заблокировал ip атакующий машины за большое колличество ошибок при вводе пароля.
+
 
 
 --- 
