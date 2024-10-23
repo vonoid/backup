@@ -24,15 +24,12 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/img1.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img2.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img3.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img4.png)
+https://hub.docker.com/repository/docker/tud777777/custom-nginx/general
 
 --- 
 
 ### Задание 2
-
+![](https://github.com/tud777777/git_homework/blob/main/img/img4.png)
 1. Высоконагруженная база данных MySQL, критическая к отказу:\
 Физические сервера: 
   * Предоставляют наибольший контроль над оборудованием, оптимизируя производительность для критически важных приложений.
