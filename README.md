@@ -44,7 +44,7 @@ https://hub.docker.com/repository/docker/tud777777/custom-nginx/general
 ![](https://github.com/tud777777/git_homework/blob/main/img/img6.png)
 ![](https://github.com/tud777777/git_homework/blob/main/img/img7.png)
 ![](https://github.com/tud777777/git_homework/blob/main/img/img8.png)
-
+Докер пробрасывает 80 порт на порт 8080, а мы изменили порт nginx на 81 и поэтому nginx доступен только внутри контейнера.
 ![](https://github.com/tud777777/git_homework/blob/main/img/img9.png)
 
 --- 
