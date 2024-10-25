@@ -41,6 +41,7 @@ https://hub.docker.com/repository/docker/tud777777/custom-nginx/general
 ### Задание 3
 
 ![](https://github.com/tud777777/git_homework/blob/main/img/img5.png)
+Контейнер выключился потому что CTRL-c отправляет SIGKILL в контейнер. 
 ![](https://github.com/tud777777/git_homework/blob/main/img/img6.png)
 ![](https://github.com/tud777777/git_homework/blob/main/img/img7.png)
 ![](https://github.com/tud777777/git_homework/blob/main/img/img8.png)
@@ -52,12 +53,18 @@ https://hub.docker.com/repository/docker/tud777777/custom-nginx/general
 
 ### Задание 4
 
-
+![](https://github.com/tud777777/git_homework/blob/main/img/img10.png)
 
 --- 
 
 ### Задание 5
 
-
+![](https://github.com/tud777777/git_homework/blob/main/img/img11.png)
+Путь по умолчанию для файла Compose — compose.yaml (предпочтительно) или compose.yml в рабочем каталоге. Compose также поддерживает docker-compose.yaml и docker-compose.yml для обратной совместимости с более ранними версиями. Если существуют оба файла, Compose предпочитает канонический compose.yaml.
+![](https://github.com/tud777777/git_homework/blob/main/img/img12.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/img13.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/img14.png)
+Опция --remove-orphans в Docker указывает удалить все контейнеры, которые не находятся в конфигурации docker-compose.yml. Она удаляет орфанные контейнеры, которые могут оставаться после предыдущего запуска или удаления контейнеров.
+![](https://github.com/tud777777/git_homework/blob/main/img/img15.png)
 
 --- 
