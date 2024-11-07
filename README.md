@@ -24,47 +24,46 @@
 
 ### Задание 1
 
-https://hub.docker.com/repository/docker/tud777777/custom-nginx/general
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk1.png)
 
 --- 
 
 ### Задание 2
 
-![](https://github.com/tud777777/git_homework/blob/main/img/img1.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img2.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img3.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img4.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk2.jpg)
 
 --- 
 
 
 ### Задание 3
 
-![](https://github.com/tud777777/git_homework/blob/main/img/img5.png)
-Контейнер выключился потому что CTRL-c отправляет SIGKILL в контейнер. 
-![](https://github.com/tud777777/git_homework/blob/main/img/img6.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img7.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img8.png)
-Докер пробрасывает 80 порт на порт 8080, а мы изменили порт nginx на 81 и поэтому nginx доступен только внутри контейнера.
-![](https://github.com/tud777777/git_homework/blob/main/img/img9.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk3_2.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk3_1.jpg)
 
 --- 
 
 
 ### Задание 4
 
-![](https://github.com/tud777777/git_homework/blob/main/img/img10.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk4_2.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk4_1.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk4_3.jpg)
+https://github.com/tud777777/shvirtd-example-python.git
 
 --- 
 
-### Задание 5
+### Задание 6
 
-![](https://github.com/tud777777/git_homework/blob/main/img/img11.png)
-Путь по умолчанию для файла Compose — compose.yaml (предпочтительно) или compose.yml в рабочем каталоге. Compose также поддерживает docker-compose.yaml и docker-compose.yml для обратной совместимости с более ранними версиями. Если существуют оба файла, Compose предпочитает канонический compose.yaml.
-![](https://github.com/tud777777/git_homework/blob/main/img/img12.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img13.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/img14.png)
-Опция --remove-orphans в Docker указывает удалить все контейнеры, которые не находятся в конфигурации docker-compose.yml. Она удаляет орфанные контейнеры, которые могут оставаться после предыдущего запуска или удаления контейнеров.
-![](https://github.com/tud777777/git_homework/blob/main/img/img15.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_2.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_1.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_3.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_4.jpg)
 
 --- 
+
+### Задание 6.1
+
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_2.jpg)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk61.jpg)
+
+---
