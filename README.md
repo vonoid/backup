@@ -34,8 +34,6 @@
 ![Screenshot_56](https://github.com/user-attachments/assets/016e6943-0a75-4d3d-b602-6913b6ee89fd)
 ![Screenshot_55](https://github.com/user-attachments/assets/744799ea-64d9-4be4-a08a-31d4682c4477)
 
-   
- ![Screenshot_60](https://github.com/user-attachments/assets/a873b258-a924-48a3-9e07-d7e3ce2dde88)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
