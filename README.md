@@ -1,5 +1,6 @@
 ### GITLAB - Резникова Анастасия
 ### Задание 1
+В связи с тем что вагрант не работает из расии, gitlab развернула локально на компе. 
 
 **Что нужно сделать:**
 
@@ -23,8 +24,18 @@
    
  * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне; 
  * скриншоты с успешно собранными сборками.
- 
- 
+Не удается запустить ранеер вылезает ошбка, у меня локально работает на нестандарном порту http://192.168.1.96:8081/ и почему то не отрабатывает этот адрес, хотя запушен верный адрес:
+![Screenshot_61](https://github.com/user-attachments/assets/d90e5813-53aa-4485-b462-2ef1affb6cb6)
+
+![Screenshot_59](https://github.com/user-attachments/assets/68c0a1b8-d4b3-4372-b5ab-771e0c00be52)
+![Screenshot_58](https://github.com/user-attachments/assets/9606e26a-ae48-458e-bbd9-34e780e5daa3)
+![Screenshot_57](https://github.com/user-attachments/assets/6a065144-d75d-4340-a286-4181e3492809)
+![Screenshot_56](https://github.com/user-attachments/assets/016e6943-0a75-4d3d-b602-6913b6ee89fd)
+![Screenshot_55](https://github.com/user-attachments/assets/744799ea-64d9-4be4-a08a-31d4682c4477)
+
+   
+ ![Screenshot_60](https://github.com/user-attachments/assets/a873b258-a924-48a3-9e07-d7e3ce2dde88)
+
 ---
 ## Дополнительные задания* (со звёздочкой)
 
