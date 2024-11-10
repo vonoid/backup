@@ -24,46 +24,14 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk1.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_1.png)
+2. Личную информацию можно хранить в файле personal.auto.tfvars.
+3. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)
+4. Ошибка 1 - у ресурса docker_image не было имени. Ошибка 2 - у ресурса docker_container имя начиналось с цифры. Ошибка 3 - random_password.random_string_FAKE.resulT => random_password.random_string.result
+5. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_3.png) ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_4.png)
+6. -auto-approve может сломать ифраструктуру если вы логически ошиблись в коде. Он может пригодиться для выполнения в скриптах. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_5.png)
+7. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_6.png)
+8. image не был унечтожен из-за этой сторочки keep_locally = true. Из документации: If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
 
 --- 
 
-### Задание 2
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk2.jpg)
-
---- 
-
-
-### Задание 3
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk3_2.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk3_1.jpg)
-
---- 
-
-
-### Задание 4
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk4_2.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk4_1.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk4_3.jpg)
-https://github.com/tud777777/shvirtd-example-python.git
-
---- 
-
-### Задание 6
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_2.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_1.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_3.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_4.jpg)
-
---- 
-
-### Задание 6.1
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk6_2.jpg)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk61.jpg)
-
----
