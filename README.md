@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_1.png)
+1. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_1.png)
 2. Личную информацию можно хранить в файле personal.auto.tfvars.
 3. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)
 4. Ошибка 1 - у ресурса docker_image не было имени. Ошибка 2 - у ресурса docker_container имя начиналось с цифры. Ошибка 3 - random_password.random_string_FAKE.resulT => random_password.random_string.result
