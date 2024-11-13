@@ -27,7 +27,7 @@
 ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_1.png)
 Ошибки заключались в неправильно указанной платформе, неправильном колличестве ядер цп и их проценте производительности.
 ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_3.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)/
 Параметры preemptible = true и core_fraction=5 сильно уменьшат стоимость вм.
 
 --- 
