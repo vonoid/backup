@@ -30,11 +30,89 @@ variable "vpc_name" {
   description = "VPC network & subnet name"
 }
 
+variable "vm_web_image" {
+  type = string
+  default = "ubuntu-2004-lts"
+}
+
+variable "vm_netology" {
+  type = string
+  default = "netology"
+}
+
+variable "vm_develop" {
+  type = string
+  default = "develop"
+}
+
+variable "vm_platform" {
+  type = string
+  default = "platform"
+}
+
+variable "vm_web" {
+  type = string
+  default = "web"
+}
+
+variable "vm_web_platform" {
+  type = string
+  default = "standard-v3"
+}
+
+# variable "vm_web_cores" {
+#   type = number
+#   default = 2
+# }
+
+# variable "vm_web_memory" {
+#   type = number
+#   default = 1
+# }
+
+# variable "vm_web_fraction" {
+#   type = number
+#   default = 20
+# }
+variable "vms_config" {
+  type = map(object({
+    cores = number
+    memory  = number
+    core_fraction = number
+  }))
+  default = {
+    "web" = {
+      cores = 2
+      memory = 1
+      core_fraction = 20
+    },
+    "db" = {
+      cores = 2
+      memory = 2
+      core_fraction = 20
+    }
+  }
+}
+
+variable "vms_ssh" {
+  type = map(object({
+      serial-port-enable = number
+      ssh-keys           = string
+  }))
+  default = {
+      ssh = {
+        serial-port-enable = 1
+        ssh-keys           = "ubuntu:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC+GmAvbNPxQaNyfLqOrUq+Nq/7DYqqy3ByaSFCb2q6W user@WIN-ECB0J3KQ1RA"
+      }
+    }
+}
+
+
 
 ###ssh vars
 
-variable "vms_ssh_root_key" {
-  type        = string
-  default     = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC+GmAvbNPxQaNyfLqOrUq+Nq/7DYqqy3ByaSFCb2q6W user@WIN-ECB0J3KQ1RA"
-  description = "ssh-keygen -t ed25519"
-}
+# variable "vms_ssh_root_key" {
+#   type        = string
+#   default     = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC+GmAvbNPxQaNyfLqOrUq+Nq/7DYqqy3ByaSFCb2q6W user@WIN-ECB0J3KQ1RA"
+#   description = "ssh-keygen -t ed25519"
+# }

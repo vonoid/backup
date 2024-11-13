@@ -25,13 +25,40 @@
 ### Задание 1
 
 ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_1.png)
-2. Личную информацию можно хранить в файле personal.auto.tfvars.
-3. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)
-4. Ошибка 1 - у ресурса docker_image не было имени. Ошибка 2 - у ресурса docker_container имя начиналось с цифры. Ошибка 3 - random_password.random_string_FAKE.resulT => random_password.random_string.result
-5. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_3.png) ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_4.png)
-6. -auto-approve может сломать ифраструктуру если вы логически ошиблись в коде. Он может пригодиться для выполнения в скриптах. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_5.png)
-7. ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_6.png)
-8. image не был унечтожен из-за этой сторочки keep_locally = true. Из документации: If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
+Ошибки заключались в неправильно указанной платформе, неправильном колличестве ядер цп и их проценте производительности.
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_3.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)
+Параметры preemptible = true и core_fraction=5 сильно уменьшат стоимость вм.
 
 --- 
 
+### Задание 2
+
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk2_2.png)
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk2_1.png)
+
+---
+
+### Задание 3
+
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk3.png)
+
+---
+
+### Задание 4
+
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk4.png)
+
+---
+
+### Задание 5
+
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk5.png)
+
+---
+
+### Задание 6
+
+![](https://github.com/tud777777/git_homework/blob/main/img/tsk6.png)
+
+---
