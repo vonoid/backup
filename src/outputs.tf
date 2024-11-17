@@ -1,3 +1,0 @@
-output "instances" {
-  value = "name_web=${yandex_compute_instance.platform_a.name} ip_web=${yandex_compute_instance.platform_a.network_interface[0].nat_ip_address} fqdn_web=${yandex_compute_instance.platform_a.fqdn}\n name_db=${yandex_compute_instance.platform_b.name} ip_db=${yandex_compute_instance.platform_b.network_interface[0].nat_ip_address} fqdn_db=${yandex_compute_instance.platform_b.fqdn}"
-}
