@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Основы Terraform. Yandex Cloud`" - `Баграш Фёдор`
+# Домашнее задание к занятию "`Управляющие конструкции в коде Terraform`" - `Баграш Фёдор`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -25,40 +25,7 @@
 ### Задание 1
 
 ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_1.png)
-Ошибки заключались в неправильно указанной платформе, неправильном колличестве ядер цп и их проценте производительности.
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_3.png)
 ![](https://github.com/tud777777/git_homework/blob/main/img/tsk1_2.png)\
-Параметры preemptible = true и core_fraction=5 сильно уменьшат стоимость вм.
 
 --- 
 
-### Задание 2
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk2_2.png)
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk2_1.png)
-
----
-
-### Задание 3
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk3.png)
-
----
-
-### Задание 4
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk4.png)
-
----
-
-### Задание 5
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk5.png)
-
----
-
-### Задание 6
-
-![](https://github.com/tud777777/git_homework/blob/main/img/tsk6.png)
-
----
