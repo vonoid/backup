@@ -25,7 +25,7 @@
 ### Задание 1
 
 ![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_1.png)
-![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_2.png)\
+![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_2.png)
 
 --- 
 
