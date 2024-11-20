@@ -29,3 +29,8 @@
 
 --- 
 
+### Задание 4
+
+![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk4_1.png)
+
+---
