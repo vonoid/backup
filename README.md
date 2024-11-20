@@ -26,11 +26,9 @@
 
 ![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_1.png)
 ![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_2.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_3.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk1_4.png)
 
 --- 
 
-### Задание 4
 
-![](https://github.com/tud777777/git_homework/blob/terraform-03/img/tsk4_1.png)
-
----
