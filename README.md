@@ -35,7 +35,7 @@
 
 ### Задание 2
 
-[/demonstration1/vms/vpc_module/vpc_docs.md]()
+[/demonstration1/vms/vpc_module/vpc_docs.md](https://github.com/tud777777/git_homework/blob/terraform-04/demonstration1/vms/vpc_module/vpc_docs.md)
 
 ---
 
