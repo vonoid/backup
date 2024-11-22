@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Управляющие конструкции в коде Terraform`" - `Баграш Фёдор`
+# Домашнее задание к занятию "`Продвинутые методы работы с Terraform`" - `Баграш Фёдор`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -28,7 +28,8 @@
 ![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_4.png)
 ![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_2.png)
 ![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_3.png)
-
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_5.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_6.png)
 
 --- 
 
