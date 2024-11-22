@@ -31,6 +31,26 @@
 ![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_5.png)
 ![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk1_6.png)
 
---- 
+---
+
+### Задание 2
+
+[/demonstration1/vms/vpc_module/vpc_docs.md]()
+
+---
+
+### Задание 3 
+
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_1.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_2.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_3.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_5.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_6.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_7.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_8.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_9.png)
+![](https://github.com/tud777777/git_homework/blob/terraform-04/img/tsk3_10.png)
+
+---
 
 
