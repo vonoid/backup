@@ -15,7 +15,7 @@
 4. Tasks должны: скачать дистрибутив нужной версии, выполнить распаковку в выбранную директорию, установить vector.
 
 ><details>
-><summary>Плей Vector</summary
+><summary>Плей Vector</summary>
 >
 >```yaml
 >- name: Install Vector
@@ -49,6 +49,7 @@
 >
 >```
 ></details>
+>
 >
 >* Локально создал систему и прописал его ip в prod.yml
 >
