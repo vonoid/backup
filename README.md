@@ -21,8 +21,8 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 $ docker-compose --version
 
 Вывод будет выглядеть следующим образом:
-$ Output
-$ docker-compose version 1.26.0, build 8a1c60f6
+Output
+docker-compose version 1.26.0, build 8a1c60f6
 ```
 
 `При необходимости прикрепитe сюда скриншоты
