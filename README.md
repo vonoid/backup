@@ -11,10 +11,18 @@
 
 ```
 Поле для вставки кода...
-....
-....
-....
-....
+Следующая команда загружает версию 1.26.0 и сохраняет исполняемый файл в каталоге /usr/local/bin/docker-compose, в результате чего данное программное обеспечение будет глобально доступно под именем docker-compose:
+$ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+Затем необходимо задать правильные разрешения, чтобы сделать команду docker-compose исполняемой:
+$ sudo chmod +x /usr/local/bin/docker-compose
+
+Чтобы проверить успешность установки, запустите следующую команду:
+$ docker-compose --version
+
+Вывод будет выглядеть следующим образом:
+$ Output
+$ docker-compose version 1.26.0, build 8a1c60f6
 ```
 
 `При необходимости прикрепитe сюда скриншоты
