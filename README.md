@@ -26,7 +26,7 @@ docker-compose version 1.26.0, build 8a1c60f6
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Docker2-установка]([https://github.com/keebertron/Docker2-Kravchenko-V.A./blob/main/Docker2-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%202.png]`
 
 
 ---
