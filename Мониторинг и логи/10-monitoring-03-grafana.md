@@ -703,6 +703,7 @@ node_load15{instance="nodeexporter:9100", job="nodeexporter"}
 }
 ```
 </details>
+
 ---
 
 ### Как оформить решение задания
