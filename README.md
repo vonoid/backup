@@ -97,7 +97,7 @@ Cоздайте Data Source Prometheus (Home -> Connections -> Data sources -> A
 
 docker-compose.yml целиком;
 скриншот команды docker ps после запуске docker-compose.yml;
- `![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/f01d1cc1b1d7bee158e90447079f9fa647e7c278/image1.png)`  
+ `![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/a572648319394b9b2912a7902ac6ca2e176b9edb/image1.png)`  
 скриншот графика, постоенного на основе вашей метрики.
 
  `![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/8c0ad52dd89bc0597ae2f32b9d9538b4257d42e6/graph.png)`  
