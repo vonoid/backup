@@ -1,0 +1,48 @@
+version: '3.8'
+
+networks:
+  reshetov_pg-my-netology-hw:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 10.5.0.0/16
+
+volumes:
+  prometheus_data:
+  grafana_data:
+  pushgateway_data:
+
+services:
+  prometheus:
+    container_name: reshetov_pg-netology-prometheus
+    image: prom/prometheus:latest
+    volumes:
+      - prometheus_data:/prometheus
+      - ./prometheus:/etc/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - reshetov_pg-my-netology-hw
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+  pushgateway:
+    container_name: reshetov_pg-netology-pushgateway
+    image: prom/pushgateway:latest
+    ports:
+      - "9091:9091"
+    networks:
+      - reshetov_pg-my-netology-hw    
+  grafana:
+    container_name: reshetov_pg-netology-grafana
+    image: grafana/grafana:latest
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana:/etc/grafana
+      - ./grafana/custom.ini:/etc/grafana/grafana.ini
+    environment:
+      - GF_SECURITY_ADMIN_USER=netology
+      - GF_SECURITY_ADMIN_PASSWORD=netology
+    ports:
+      - "3000:3000"
+    networks:
+      - reshetov_pg-my-netology-hw    
