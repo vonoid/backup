@@ -102,7 +102,7 @@ docker-compose.yml целиком;
 
 скриншот графика, постоенного на основе вашей метрики.
 
- `![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/8c0ad52dd89bc0597ae2f32b9d9538b4257d42e6/graph.png)`  
+ ![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/8c0ad52dd89bc0597ae2f32b9d9538b4257d42e6/graph.png)  
 
 ### Задание 8
 
@@ -110,4 +110,4 @@ docker-compose.yml целиком;
 
 Остановите и удалите все контейнеры одной командой.
 В качестве решения приложите скриншот консоли с проделанными действиями.
- `![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/a8c9ecfbfb9f6329bf10ee35d7518d6f519bee15/stopped.png)` 
+ ![alt text](https://github.com/Saint-Pablo-3/6-04-new-hw/blob/a8c9ecfbfb9f6329bf10ee35d7518d6f519bee15/stopped.png)
