@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: busy-app
+spec:
+  selector:
+    matchLabels:
+      app: busy-app
+  template:
+    metadata:
+      labels:
+        app: busy-app
+    spec:
+      containers:
+      - name: busy-write
+        image: busybox
+        command: ['sh', '-c', 'while true; do echo $(date "+%Y-%m-%d %H:%M:%S") Success! >> /var/tmp/success.txt; sleep 5; done']
+        volumeMounts:
+          - name: shar-dir
+            mountPath: /var/tmp/
+      - name: multi-read
+        image: wbitt/network-multitool
+        command: ['sh', '-c', 'tail -f /var/tmp/success.txt']
+        volumeMounts:
+          - name: shar-dir
+            mountPath: /var/tmp/
+      volumes:
+        - name: shar-dir
+          hostPath:
+            path: /home/vagrant/HW_2.1/shar-dir/
