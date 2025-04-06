@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: multi-busy-depl
+  namespace: default
+  labels:
+    app: multi-busy
+spec:
+  selector:
+    matchLabels:
+      app: multi-busy
+  template:
+    metadata:
+      labels:
+        app: multi-busy
+    spec:
+      containers:
+      - name: busybox
+        image: busybox
+        command: ['sh', '-c', 'while true; do echo $(date "+%Y-%m-%d %H:%M:%S") Success! >> /mnt/pv/success.txt; sleep 5; done']
+        volumeMounts:
+        - name: data
+          mountPath: /mnt/pv
+      - name: multitool
+        image: wbitt/network-multitool
+        command: ['sh', '-c', 'tail -f /mnt/pv/success.txt']
+        volumeMounts:
+        - name: data
+          mountPath: /mnt/pv
+      volumes:
+      - name: data
+        persistentVolumeClaim:
+          claimName: pvc

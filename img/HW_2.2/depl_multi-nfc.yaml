@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: multi-nfs-depl
+  namespace: default
+  labels:
+    app: multi-nfs-depl
+spec:
+  selector:
+    matchLabels:
+      app: multi-nfs-depl
+  template:
+    metadata:
+      labels:
+        app: multi-nfs-depl
+    spec:
+      containers:
+      - name: multitool
+        image: wbitt/network-multitool
+        volumeMounts:
+        - name: data
+          mountPath: /mnt/nfc
+      volumes:
+      - name: data
+        persistentVolumeClaim:
+          claimName: pvc-nfc
