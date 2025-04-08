@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: svc-depl
+spec:
+  selector:
+    app: nginx-multi
+  ports:
+    - name: nginx
+      protocol: TCP
+      port: 80
+      targetPort: 80
+    - name: multitool
+      protocol: TCP
+      port: 8080
+      targetPort: 1180

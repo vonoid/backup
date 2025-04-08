@@ -1,0 +1,24 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: multitool-port
+data:
+  HTTP_PORT: "1180"
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-html
+data:
+  index.html: |-
+    <html>
+    <head>
+      <title>Тестовая страница</title>
+      <!--<meta charset="UTF-8">-->
+    </head>
+    <body>
+      <h1>Тестовая страница</h1>
+      <p>Тест ConfigMap, tls-ingress</a>.
+      </p>
+    </body>
+    </html>
