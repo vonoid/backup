@@ -33,6 +33,6 @@ ls -l /tmp/backup
 ![rsync6](https://github.com/vonoid/backup/blob/881f8ca6cb73661cebee7449af2e421f5512a2b5/img/23.jpg)
 
 cat backup.sh
-![backup.sh](https://github.com/vonoid/backup/blob/881f8ca6cb73661cebee7449af2e421f5512a2b5/img/24.jpg)
+![backup.sh](https://github.com/vonoid/backup/blob/e25ba5b1950fca3bb70f234966938279d9c3b26b/img/24.jpg)
 
 
