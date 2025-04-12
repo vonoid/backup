@@ -31,3 +31,8 @@ grep "HOME_BACKUP" /var/log/syslog
 
 ls -l /tmp/backup
 ![rsync6](https://github.com/vonoid/backup/blob/881f8ca6cb73661cebee7449af2e421f5512a2b5/img/23.jpg)
+
+cat backup.sh
+![backup.sh](https://github.com/vonoid/backup/blob/881f8ca6cb73661cebee7449af2e421f5512a2b5/img/24.jpg)
+
+
